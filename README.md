@@ -1,8 +1,8 @@
 
 
-# 🏦 RBI Hackathon — Money Mule Account Detection using Behavioral Banking Analytics
+# RBI Hackathon — Money Mule Account Detection using Behavioral Banking Analytics
 
-## 📌 Overview
+## Overview
 
 Financial institutions continuously face risks from **money mule accounts**, which are used to transfer and launder illegally obtained funds. Detecting such accounts is a critical component of modern **Anti-Money Laundering (AML)** and fraud prevention systems.
 
@@ -12,7 +12,7 @@ The objective is to identify **behavioral, transactional, and network-based patt
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Money mule accounts typically exhibit abnormal transaction behavior such as:
 
@@ -31,7 +31,7 @@ The goal of this analysis is to:
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 The dataset represents approximately **5 years of banking activity (July 2020 – June 2025)** and consists of multiple relational tables:
 
@@ -49,4 +49,4 @@ Due to confidentiality and hackathon restrictions, datasets are **not included**
 
 ---
 
-## 🔗 Data Relationships
+## Data Relationships
